@@ -39,6 +39,10 @@ https://github.com/akhilender-bongirwar/code-validator/assets/112749383/6b6dc678
 
 
 
+## IMPORTANT NOTICE
+
+The application is currently in the development stage, where the main focus lies on building and refining the logic and functions. At this phase, only Python code is executed by this application.
+
 ## Contributing
 
 If you have suggestions for how code-executer could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
